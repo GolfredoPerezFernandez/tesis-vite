@@ -8,10 +8,12 @@
     "dev": "vite dev",
     "start": "remix-serve ./build/index.js",
     "typecheck": "tsc",
+    "deploy": "flyctl deploy --remote-only",
     "ionic:build": "npm run build",
     "ionic:serve": "npm run start"
   },
   "dependencies": {
+    "@capacitor/android": "5.5.1",
     "@capacitor/app": "5.0.6",
     "@capacitor/cli": "5.5.1",
     "@capacitor/core": "5.5.1",

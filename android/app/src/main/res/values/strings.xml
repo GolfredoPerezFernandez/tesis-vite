@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">tesis-vite</string>
+    <string name="title_activity_main">tesis-vite</string>
+    <string name="package_name">tesis.vite</string>
+    <string name="custom_url_scheme">tesis.vite</string>
+</resources>
