@@ -5,8 +5,8 @@ const config: CapacitorConfig = {
   appName: 'tesis-vite',
   webDir: 'build',
   server: {
-    androidScheme: 'https'
-  }
+    url: "https://tesis-vite.fly.dev/",
+    cleartext: true  }
 };
 
 export default config;
