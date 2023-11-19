@@ -1,0 +1,7 @@
+{
+  "name": "tesis-vite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
